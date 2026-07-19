@@ -56,6 +56,3 @@ python process_incoming.py
 Github:
 https://github.com/sujaljadiya08
 
-*Sujal Jadiya*
-
-GitHub: https://github.com/sujaljadiya08
